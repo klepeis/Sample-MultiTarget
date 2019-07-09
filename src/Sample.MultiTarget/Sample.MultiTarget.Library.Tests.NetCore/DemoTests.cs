@@ -1,10 +1,9 @@
-﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace Sample.MultiTarget.Library.Tests._461
+namespace Sample.MultiTarget.Library.Tests.NetCore
 {
     [TestClass]
-    public class UnitTest1
+    public class DemoTests
     {
         [TestMethod]
         public void GetVersion_Success()
